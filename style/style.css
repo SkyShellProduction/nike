@@ -132,7 +132,7 @@ footer ul li a:hover{
         left: 40px;
     }
     .header-nav ul{
-        position: fixed;
+        position: absolute;
         transition: 0.6s;
         top: 50px;
         left: -100%;
